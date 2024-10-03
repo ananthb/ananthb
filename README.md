@@ -1,5 +1,8 @@
 Hey I'm Ananth, a Staff Engineer over at [Qube Wire](https://qubewire.com).
 If I own something with a CPU in it, chances are I've booted up Linux on it.
+My homeserver is an Apple Mac Mini M2 Pro running Asahi Linux and I'm loving
+every minute of it.
+
 I'm a seasoned Go developer with experience working on the language and toolchain.
 I've worked on OCI projects like [Podman](https://github.com/containers/podman) 
 & skopeo, and ASDF Projects like OpenColorIO.
