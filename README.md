@@ -8,4 +8,4 @@ I've worked on OCI projects like [Podman](https://github.com/containers/podman)
 & skopeo, and ASDF Projects like OpenColorIO.
 Currently learning [Rust](https://rust-lang.org) and exploring [Zig](https://ziglang.org).
 
-I started a blog at [coredump.blog](https://coredump.blog).
+I started blogging over at [devhuman.net](https://devhuman.net). Check it out!
