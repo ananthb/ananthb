@@ -1,4 +1,4 @@
-Hey I'm Ananth, a Staff Engineer at [Qube Wire](https://qubewire.com).
+Hey I'm Ananth, Linux Engineer and SRE.
 If I own something with a CPU in it, chances are I've booted up Linux on it.
 My homeserver is an Apple Mac Mini M2 Pro running Asahi Linux and I'm loving
 every minute of it.
