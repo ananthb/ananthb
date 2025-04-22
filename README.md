@@ -1,5 +1,6 @@
 Hey I'm Ananth, a Linux Engineer and SRE.
 If I own something with a CPU in it, chances are I've booted up Linux on it.
+I enjoy making fast websites, working with microcontrollers, and learning new programming languages.
 
 [![](https://ossrank.com/widget/22077)](https://ossrank.com/c/22077-ananth-bhaskararaman)
 
